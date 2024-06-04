@@ -1,7 +1,9 @@
 # NGO Education Landing Page
 
 This React application serves as a captivating landing page for NGOs, promoting its mission to provide high-quality education for children. 
-The landing page is designed to engage potential donors, volunteers, and supporters with a user-friendly interface and clear messaging.
+The landing page's user-friendly interface and clear messaging are designed to engage potential donors, volunteers, and supporters.
+
+![Landing-Page](https://github.com/sumedhakoranga/EduSprout/assets/124348875/aafc62e1-2855-4dda-8cd3-7cb136345784)
 
 ## Features:
 
